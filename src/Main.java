@@ -24,7 +24,6 @@ public class Main {
 		pessoaEmCadastro.getState().irAoProximoPasso();
 
 		pessoaEmCadastro.getState().executarPassoCadastro();
-		pessoaEmCadastro.getState().irAoProximoPasso();
 
 	}
 }
